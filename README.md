@@ -1,2 +1,2 @@
-# Neural_Style_Transfer
+# Neural Style Transfer
 Algoritmo neuronal del estilo artístico 
