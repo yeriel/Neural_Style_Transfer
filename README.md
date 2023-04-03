@@ -19,7 +19,7 @@ https://doi.org/10.48550/arXiv.1508.06576)
 # Review paper
 ## Algoritmo de transferencia de estilo. 
 
-![review paper](Figures\review_paper.png)
+![review paper](Figures/review_paper.png)
 
 Primero se extraen y almacenan las características de contenido y estilo. La imagen de estilo $\vec{a}$ se pasa a través de la red y se calcula y almacena su representación de estilo $A^l$ en todas las capas incluidas (izquierda). 
 
